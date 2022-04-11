@@ -1,0 +1,36 @@
+Nume: Lazureanu George Ionut
+Grupa: 333CB
+
+Tema 1
+
+1. In primul rand am ales sa fac si:
+    -unit testing
+    -sourcing pe git
+    -logging
+
+    Solutia:
+    Clasa de baza Marketplace are 2 structuri de baza:
+        ->carts: lista cu cumparaturi
+        ->producers: lista cu produse si locuri pentru fiecare lista
+    Sincronizarea este asigurata:
+        ->in momentul cand se adauga un cart / producer indexul este 
+        obtinut cu acces protejat, astfel ca nu exista concurenta
+        ->in momentul cand un producer umbla la cantitatea unui produs
+        sau adauga un produs, sau un consumer acceseaza lista unui producer,
+        lista respectiva este pusa intr-o zona critica, sincronizata. Astfel
+        ca toate operatiile de mai sus au loc la nivel atomic
+    Consumer:
+        ->Clasa ce doreste sa consume pana la capat, nu se opreste
+        pana nu isi face cumparaturile cum si le doreste
+    Producer:
+        ->Clasa ce produce continuu astfel ca toti consumatorii sa aiba
+        produse pana la finalul programului
+
+2. Tema mi se pare destul de utila, desi enuntul in sine este destul de greu
+de abordat, a trebuit foarte mult sa discut cu colegii si sa ma uit peste teste
+ca sa inteleg ce trebuie facut, eu spre exemplu nu bagam producerii in bucla true.
+A fost destul de fun totusi, mai ales crearea de liste cu lock-uri asociate.
+
+3. Consider ca am avut o implementare destul de eficienta, fiind atatea guidlines
+in legatura cu asteptarea Consumerilor / Producerilor, totul este facut in parametrii,
+nu cred ca poate fi imbunatatit excesiv programul.

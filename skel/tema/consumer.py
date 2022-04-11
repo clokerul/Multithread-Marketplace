@@ -32,37 +32,38 @@ class Consumer(Thread):
         :type kwargs:
         :param kwargs: other arguments that are passed to the Thread's __init__()
         """
-        Thread.__init__(self);
-        self.ops = carts;
-        self.marketplace = marketplace;
-        self.retry_wait_time = retry_wait_time;
-        self.name = kwargs["name"];
+        Thread.__init__(self, **kwargs)
+        self.carts = carts
+        self.marketplace = marketplace
+        self.retry_wait_time = retry_wait_time
+        self.name = kwargs["name"]
 
     def run(self):
-        cart_id = self.marketplace.new_cart();
-        market = self.marketplace;
+        cart_id = self.marketplace.new_cart()
+        market = self.marketplace
 
         # Take operation by operation and emulate the consumer
-        for op in self.ops:
-            op_type = op["type"];
-            op_prod = op["prod"];
-            op_quantity = op["quantity"];
+        for cart in self.carts:
+            for op in cart:
+                op_type = op["type"]
+                op_prod = op["product"]
+                op_quantity = op["quantity"]
 
-            # Do it from 0 to quantity - 1 times
-            for i in range(0, op_quantity):
-                # Add operation
-                if (op_type == "add"):
-                    added_to_cart = False
+                # Do it from 0 to quantity - 1 times
+                for i in range(0, op_quantity):
+                    # Add operation
+                    if (op_type == "add"):
+                        added_to_cart = False
 
-                    while not added_to_cart:
-                        added_to_cart = market.add_to_cart(cart_id, op_prod);
-                        if not added_to_cart:
-                            time.sleep(self.retry_wait_time)
-                # Remove operation
-                elif (op_type == "remove"):
-                    market.remove_cart(cart_id, op_prod);
-                else:
-                    print("ERROR OPPERATION NOT KNOWN");
+                        while not added_to_cart:
+                            added_to_cart = market.add_to_cart(cart_id, op_prod)
+                            if not added_to_cart:
+                                time.sleep(self.retry_wait_time)
+                    # Remove operation
+                    elif (op_type == "remove"):
+                        market.remove_from_cart(cart_id, op_prod)
+                    else:
+                        print("ERROR OPPERATION NOT KNOWN")
 
         for product in self.marketplace.place_order(cart_id):
-            print(self.name + " bought " + product);
+            print(str(self.name) + " bought " + str(product))

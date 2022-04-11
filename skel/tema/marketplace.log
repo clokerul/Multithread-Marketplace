@@ -1,0 +1,538 @@
+INFO:root:Registered producer 0
+INFO:root:Registered producer 0
+INFO:root:Registered producer 1
+INFO:root:Registered producer 0
+INFO:root:Trying to publish product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Published product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Registered producer 0
+INFO:root:Registered producer 1
+INFO:root:Registered producer 0
+INFO:root:Trying to publish product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Published product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Trying to publish product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Published product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Trying to publish product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Published product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Trying to publish product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Published product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Registered producer 0
+INFO:root:Registered producer 1
+INFO:root:Registered producer 0
+INFO:root:Trying to publish product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Published product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Trying to publish product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Published product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Trying to publish product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Published product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Trying to publish product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Published product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Registered producer 0
+INFO:root:Registered producer 1
+INFO:root:Registered producer 0
+INFO:root:Trying to publish product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Published product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Trying to publish product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Published product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Trying to publish product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Published product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Trying to publish product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Published product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Registered producer 0
+INFO:root:Registered producer 1
+INFO:root:New cart number 0
+INFO:root:New cart number 1
+INFO:root:Registered producer 0
+INFO:root:Trying to publish product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Published product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Trying to publish product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Published product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Trying to publish product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Published product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Trying to publish product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Published product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Registered producer 0
+INFO:root:Registered producer 1
+INFO:root:Registered producer 0
+INFO:root:New cart number 0
+INFO:root:Trying to publish product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Published product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Producers lock aquired by cart 0
+INFO:root:Producers released aquired by cart 0
+INFO:root:List lock acquired on producer 0
+INFO:root:List lock released on producer 0
+INFO:root:Product Tea(name='Ceai', price=15, type='d-ala bun') added to cart 0
+INFO:root:New cart number 0
+INFO:root:New cart number 1
+INFO:root:Registered producer 0
+INFO:root:Trying to publish product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Published product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Trying to publish product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Published product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Trying to publish product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Published product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Trying to publish product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Published product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Registered producer 0
+INFO:root:Registered producer 1
+INFO:root:Registered producer 0
+INFO:root:New cart number 0
+INFO:root:Trying to publish product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Published product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Producers lock aquired by cart 0
+INFO:root:Producers released aquired by cart 0
+INFO:root:List lock acquired on producer 0
+INFO:root:List lock released on producer 0
+INFO:root:Product Tea(name='Ceai', price=15, type='d-ala bun') added to cart 0
+INFO:root:Producers lock aquired by cart 0
+INFO:root:Producers released aquired by cart 0
+INFO:root:List lock acquired on producer 0
+INFO:root:List lock released on producer 0
+INFO:root:Product Tea(name='Ceai', price=15, type='d-ala bun') failed to add to cart 0
+INFO:root:New cart number 0
+INFO:root:New cart number 1
+INFO:root:Registered producer 0
+INFO:root:Trying to publish product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Published product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Trying to publish product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Published product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Trying to publish product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Published product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Trying to publish product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Published product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Registered producer 0
+INFO:root:Registered producer 1
+INFO:root:Registered producer 0
+INFO:root:New cart number 0
+INFO:root:Trying to publish product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Published product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Producers lock aquired by cart 0
+INFO:root:Producers released aquired by cart 0
+INFO:root:List lock acquired on producer 0
+INFO:root:List lock released on producer 0
+INFO:root:Product Tea(name='Ceai', price=15, type='d-ala bun') added to cart 0
+INFO:root:Producers lock aquired by cart 0
+INFO:root:Producers released aquired by cart 0
+INFO:root:List lock acquired on producer 0
+INFO:root:List lock released on producer 0
+INFO:root:Product Tea(name='Ceai', price=15, type='d-ala bun') failed to add to cart 0
+INFO:root:New cart number 0
+INFO:root:New cart number 1
+INFO:root:Registered producer 0
+INFO:root:Trying to publish product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Published product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Trying to publish product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Published product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Trying to publish product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Published product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Trying to publish product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Published product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Registered producer 0
+INFO:root:Registered producer 1
+INFO:root:Registered producer 0
+INFO:root:New cart number 0
+INFO:root:Trying to publish product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Published product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Producers lock aquired by cart 0
+INFO:root:Producers released aquired by cart 0
+INFO:root:List lock acquired on producer 0
+INFO:root:List lock released on producer 0
+INFO:root:Product Tea(name='Ceai', price=15, type='d-ala bun') added to cart 0
+INFO:root:Producers lock aquired by cart 0
+INFO:root:Producers released aquired by cart 0
+INFO:root:List lock acquired on producer 0
+INFO:root:List lock released on producer 0
+INFO:root:Product Tea(name='Ceai', price=15, type='d-ala bun') failed to add to cart 0
+INFO:root:New cart number 0
+INFO:root:New cart number 1
+INFO:root:Registered producer 0
+INFO:root:Trying to publish product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Published product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Trying to publish product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Published product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Trying to publish product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Published product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Trying to publish product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Published product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Registered producer 0
+INFO:root:Registered producer 1
+INFO:root:Registered producer 0
+INFO:root:New cart number 0
+INFO:root:Trying to publish product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Published product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Producers lock aquired by cart 0
+INFO:root:Producers released aquired by cart 0
+INFO:root:List lock acquired on producer 0
+INFO:root:List lock released on producer 0
+INFO:root:Product Tea(name='Ceai', price=15, type='d-ala bun') added to cart 0
+INFO:root:Producers lock aquired by cart 0
+INFO:root:Producers released aquired by cart 0
+INFO:root:List lock acquired on producer 0
+INFO:root:List lock released on producer 0
+INFO:root:Product Tea(name='Ceai', price=15, type='d-ala bun') failed to add to cart 0
+INFO:root:New cart number 0
+INFO:root:New cart number 1
+INFO:root:Registered producer 0
+INFO:root:Trying to publish product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Published product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Trying to publish product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Published product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Trying to publish product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Published product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Trying to publish product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Published product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Registered producer 0
+INFO:root:Registered producer 1
+INFO:root:Registered producer 0
+INFO:root:New cart number 0
+INFO:root:Trying to publish product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Published product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Producers lock aquired by cart 0
+INFO:root:Producers released aquired by cart 0
+INFO:root:List lock acquired on producer 0
+INFO:root:List lock released on producer 0
+INFO:root:Product Tea(name='Ceai', price=15, type='d-ala bun') added to cart 0
+INFO:root:Producers lock aquired by cart 0
+INFO:root:Producers released aquired by cart 0
+INFO:root:List lock acquired on producer 0
+INFO:root:List lock released on producer 0
+INFO:root:Product Tea(name='Ceai', price=15, type='d-ala bun') failed to add to cart 0
+INFO:root:New cart number 0
+INFO:root:New cart number 1
+INFO:root:Registered producer 0
+INFO:root:Trying to publish product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Published product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Trying to publish product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Published product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Trying to publish product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Published product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Trying to publish product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Published product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Registered producer 0
+INFO:root:Registered producer 1
+INFO:root:Registered producer 0
+INFO:root:New cart number 0
+INFO:root:Trying to publish product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Published product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Producers lock aquired by cart 0
+INFO:root:Producers released aquired by cart 0
+INFO:root:List lock acquired on producer 0
+INFO:root:List lock released on producer 0
+INFO:root:Product Tea(name='Ceai', price=15, type='d-ala bun') added to cart 0
+INFO:root:Producers lock aquired by cart 0
+INFO:root:Producers released aquired by cart 0
+INFO:root:List lock acquired on producer 0
+INFO:root:List lock released on producer 0
+INFO:root:Product Tea(name='Ceai', price=15, type='d-ala bun') failed to add to cart 0
+INFO:root:New cart number 0
+INFO:root:New cart number 1
+INFO:root:Registered producer 0
+INFO:root:Trying to publish product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Published product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Trying to publish product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Published product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Trying to publish product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Published product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Trying to publish product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Published product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Registered producer 0
+INFO:root:Registered producer 1
+INFO:root:Registered producer 0
+INFO:root:New cart number 0
+INFO:root:Trying to publish product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Published product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Producers lock aquired by cart 0
+INFO:root:Producers released aquired by cart 0
+INFO:root:List lock acquired on producer 0
+INFO:root:List lock released on producer 0
+INFO:root:Product Tea(name='Ceai', price=15, type='d-ala bun') added to cart 0
+INFO:root:Product Tea(name='Ceai', price=15, type='d-ala bun') removed from cart 0
+INFO:root:Producers lock aquired by cart 0
+INFO:root:Producers released aquired by cart 0
+INFO:root:List lock acquired on producer 0
+INFO:root:List lock released on producer 0
+INFO:root:Product Tea(name='Ceai', price=15, type='d-ala bun') added to cart 0
+INFO:root:Producers lock aquired by cart 0
+INFO:root:Producers released aquired by cart 0
+INFO:root:List lock acquired on producer 0
+INFO:root:List lock released on producer 0
+INFO:root:Product Tea(name='Ceai', price=15, type='d-ala bun') failed to add to cart 0
+INFO:root:Registered producer 0
+INFO:root:New cart number 0
+INFO:root:Trying to publish product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Published product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Producers lock aquired by cart 0
+INFO:root:Producers released aquired by cart 0
+INFO:root:List lock acquired on producer 0
+INFO:root:List lock released on producer 0
+INFO:root:Product Tea(name='Ceai', price=15, type='d-ala bun') added to cart 0
+INFO:root:Producers lock aquired by cart 0
+INFO:root:Producers released aquired by cart 0
+INFO:root:List lock acquired on producer 0
+INFO:root:List lock released on producer 0
+INFO:root:Product Tea(name='Ceai', price=15, type='d-ala bun') failed to add to cart 0
+INFO:root:New cart number 0
+INFO:root:New cart number 1
+INFO:root:Registered producer 0
+INFO:root:New cart number 0
+INFO:root:Trying to publish product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Published product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Producers lock aquired by cart 0
+INFO:root:Producers released aquired by cart 0
+INFO:root:List lock acquired on producer 0
+INFO:root:List lock released on producer 0
+INFO:root:Product Tea(name='Ceai', price=15, type='d-ala bun') added to cart 0
+INFO:root:Registered producer 0
+INFO:root:Trying to publish product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Published product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Trying to publish product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Published product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Trying to publish product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Published product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Trying to publish product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Published product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Registered producer 0
+INFO:root:Registered producer 1
+INFO:root:Registered producer 0
+INFO:root:New cart number 0
+INFO:root:Trying to publish product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Published product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Producers lock aquired by cart 0
+INFO:root:Producers released aquired by cart 0
+INFO:root:List lock acquired on producer 0
+INFO:root:List lock released on producer 0
+INFO:root:Product Tea(name='Ceai', price=15, type='d-ala bun') added to cart 0
+INFO:root:Product Tea(name='Ceai', price=15, type='d-ala bun') removed from cart 0
+INFO:root:Producers lock aquired by cart 0
+INFO:root:Producers released aquired by cart 0
+INFO:root:List lock acquired on producer 0
+INFO:root:List lock released on producer 0
+INFO:root:Product Tea(name='Ceai', price=15, type='d-ala bun') added to cart 0
+INFO:root:Producers lock aquired by cart 0
+INFO:root:Producers released aquired by cart 0
+INFO:root:List lock acquired on producer 0
+INFO:root:List lock released on producer 0
+INFO:root:Product Tea(name='Ceai', price=15, type='d-ala bun') failed to add to cart 0
+INFO:root:Registered producer 0
+INFO:root:New cart number 0
+INFO:root:Trying to publish product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Published product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Producers lock aquired by cart 0
+INFO:root:Producers released aquired by cart 0
+INFO:root:List lock acquired on producer 0
+INFO:root:List lock released on producer 0
+INFO:root:Product Tea(name='Ceai', price=15, type='d-ala bun') added to cart 0
+INFO:root:Producers lock aquired by cart 0
+INFO:root:Producers released aquired by cart 0
+INFO:root:List lock acquired on producer 0
+INFO:root:List lock released on producer 0
+INFO:root:Product Tea(name='Ceai', price=15, type='d-ala bun') failed to add to cart 0
+INFO:root:New cart number 0
+INFO:root:New cart number 1
+INFO:root:Registered producer 0
+INFO:root:New cart number 0
+INFO:root:Trying to publish product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Published product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Producers lock aquired by cart 0
+INFO:root:Producers released aquired by cart 0
+INFO:root:List lock acquired on producer 0
+INFO:root:List lock released on producer 0
+INFO:root:Product Tea(name='Ceai', price=15, type='d-ala bun') added to cart 0
+INFO:root:Registered producer 0
+INFO:root:Trying to publish product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Published product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Trying to publish product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Published product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Trying to publish product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Published product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Trying to publish product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Published product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Registered producer 0
+INFO:root:Registered producer 1
+INFO:root:Registered producer 0
+INFO:root:New cart number 0
+INFO:root:Trying to publish product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Published product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Producers lock aquired by cart 0
+INFO:root:Producers released aquired by cart 0
+INFO:root:List lock acquired on producer 0
+INFO:root:List lock released on producer 0
+INFO:root:Product Tea(name='Ceai', price=15, type='d-ala bun') added to cart 0
+INFO:root:Product Tea(name='Ceai', price=15, type='d-ala bun') removed from cart 0
+INFO:root:Producers lock aquired by cart 0
+INFO:root:Producers released aquired by cart 0
+INFO:root:List lock acquired on producer 0
+INFO:root:List lock released on producer 0
+INFO:root:Product Tea(name='Ceai', price=15, type='d-ala bun') added to cart 0
+INFO:root:Producers lock aquired by cart 0
+INFO:root:Producers released aquired by cart 0
+INFO:root:List lock acquired on producer 0
+INFO:root:List lock released on producer 0
+INFO:root:Product Tea(name='Ceai', price=15, type='d-ala bun') failed to add to cart 0
+INFO:root:Registered producer 0
+INFO:root:New cart number 0
+INFO:root:Trying to publish product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Published product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Producers lock aquired by cart 0
+INFO:root:Producers released aquired by cart 0
+INFO:root:List lock acquired on producer 0
+INFO:root:List lock released on producer 0
+INFO:root:Product Tea(name='Ceai', price=15, type='d-ala bun') added to cart 0
+INFO:root:Producers lock aquired by cart 0
+INFO:root:Producers released aquired by cart 0
+INFO:root:List lock acquired on producer 0
+INFO:root:List lock released on producer 0
+INFO:root:Product Tea(name='Ceai', price=15, type='d-ala bun') failed to add to cart 0
+INFO:root:New cart number 0
+INFO:root:New cart number 1
+INFO:root:Registered producer 0
+INFO:root:New cart number 0
+INFO:root:Trying to publish product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Published product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Producers lock aquired by cart 0
+INFO:root:Producers released aquired by cart 0
+INFO:root:List lock acquired on producer 0
+INFO:root:List lock released on producer 0
+INFO:root:Product Tea(name='Ceai', price=15, type='d-ala bun') added to cart 0
+INFO:root:Registered producer 0
+INFO:root:Trying to publish product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Published product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Trying to publish product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Published product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Trying to publish product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Published product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Trying to publish product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Published product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Registered producer 0
+INFO:root:Registered producer 1
+INFO:root:Registered producer 0
+INFO:root:New cart number 0
+INFO:root:Trying to publish product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Published product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Producers lock aquired by cart 0
+INFO:root:Producers released aquired by cart 0
+INFO:root:List lock acquired on producer 0
+INFO:root:List lock released on producer 0
+INFO:root:Product Tea(name='Ceai', price=15, type='d-ala bun') added to cart 0
+INFO:root:Product Tea(name='Ceai', price=15, type='d-ala bun') removed from cart 0
+INFO:root:Producers lock aquired by cart 0
+INFO:root:Producers released aquired by cart 0
+INFO:root:List lock acquired on producer 0
+INFO:root:List lock released on producer 0
+INFO:root:Product Tea(name='Ceai', price=15, type='d-ala bun') added to cart 0
+INFO:root:Producers lock aquired by cart 0
+INFO:root:Producers released aquired by cart 0
+INFO:root:List lock acquired on producer 0
+INFO:root:List lock released on producer 0
+INFO:root:Product Tea(name='Ceai', price=15, type='d-ala bun') failed to add to cart 0
+INFO:root:Registered producer 0
+INFO:root:New cart number 0
+INFO:root:Trying to publish product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Published product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Producers lock aquired by cart 0
+INFO:root:Producers released aquired by cart 0
+INFO:root:List lock acquired on producer 0
+INFO:root:List lock released on producer 0
+INFO:root:Product Tea(name='Ceai', price=15, type='d-ala bun') added to cart 0
+INFO:root:Producers lock aquired by cart 0
+INFO:root:Producers released aquired by cart 0
+INFO:root:List lock acquired on producer 0
+INFO:root:List lock released on producer 0
+INFO:root:Product Tea(name='Ceai', price=15, type='d-ala bun') failed to add to cart 0
+INFO:root:New cart number 0
+INFO:root:New cart number 1
+INFO:root:Registered producer 0
+INFO:root:New cart number 0
+INFO:root:Trying to publish product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Published product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Producers lock aquired by cart 0
+INFO:root:Producers released aquired by cart 0
+INFO:root:List lock acquired on producer 0
+INFO:root:List lock released on producer 0
+INFO:root:Product Tea(name='Ceai', price=15, type='d-ala bun') added to cart 0
+INFO:root:Registered producer 0
+INFO:root:Trying to publish product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Published product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Trying to publish product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Published product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Trying to publish product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Published product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Trying to publish product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Published product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Registered producer 0
+INFO:root:Registered producer 1
+INFO:root:Registered producer 0
+INFO:root:New cart number 0
+INFO:root:Trying to publish product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Published product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Producers lock aquired by cart 0
+INFO:root:Producers released aquired by cart 0
+INFO:root:List lock acquired on producer 0
+INFO:root:List lock released on producer 0
+INFO:root:Product Tea(name='Ceai', price=15, type='d-ala bun') added to cart 0
+INFO:root:Product Tea(name='Ceai', price=15, type='d-ala bun') removed from cart 0
+INFO:root:Producers lock aquired by cart 0
+INFO:root:Producers released aquired by cart 0
+INFO:root:List lock acquired on producer 0
+INFO:root:List lock released on producer 0
+INFO:root:Product Tea(name='Ceai', price=15, type='d-ala bun') added to cart 0
+INFO:root:Producers lock aquired by cart 0
+INFO:root:Producers released aquired by cart 0
+INFO:root:List lock acquired on producer 0
+INFO:root:List lock released on producer 0
+INFO:root:Product Tea(name='Ceai', price=15, type='d-ala bun') failed to add to cart 0
+INFO:root:Registered producer 0
+INFO:root:New cart number 0
+INFO:root:Trying to publish product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Published product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Producers lock aquired by cart 0
+INFO:root:Producers released aquired by cart 0
+INFO:root:List lock acquired on producer 0
+INFO:root:List lock released on producer 0
+INFO:root:Product Tea(name='Ceai', price=15, type='d-ala bun') added to cart 0
+INFO:root:Producers lock aquired by cart 0
+INFO:root:Producers released aquired by cart 0
+INFO:root:List lock acquired on producer 0
+INFO:root:List lock released on producer 0
+INFO:root:Product Tea(name='Ceai', price=15, type='d-ala bun') failed to add to cart 0
+INFO:root:New cart number 0
+INFO:root:New cart number 1
+INFO:root:Registered producer 0
+INFO:root:New cart number 0
+INFO:root:Trying to publish product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Published product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Producers lock aquired by cart 0
+INFO:root:Producers released aquired by cart 0
+INFO:root:List lock acquired on producer 0
+INFO:root:List lock released on producer 0
+INFO:root:Product Tea(name='Ceai', price=15, type='d-ala bun') added to cart 0
+INFO:root:Registered producer 0
+INFO:root:Trying to publish product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Published product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Trying to publish product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Published product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Trying to publish product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Published product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Trying to publish product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Published product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Registered producer 0
+INFO:root:Registered producer 1
+INFO:root:Registered producer 0
+INFO:root:New cart number 0
+INFO:root:Trying to publish product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Published product Tea(name='Ceai', price=15, type='d-ala bun')
+INFO:root:Producers lock aquired by cart 0
+INFO:root:Producers released aquired by cart 0
+INFO:root:List lock acquired on producer 0
+INFO:root:List lock released on producer 0
+INFO:root:Product Tea(name='Ceai', price=15, type='d-ala bun') added to cart 0
+INFO:root:Product Tea(name='Ceai', price=15, type='d-ala bun') removed from cart 0
+INFO:root:Producers lock aquired by cart 0
+INFO:root:Producers released aquired by cart 0
+INFO:root:List lock acquired on producer 0
+INFO:root:List lock released on producer 0
+INFO:root:Product Tea(name='Ceai', price=15, type='d-ala bun') added to cart 0
+INFO:root:Producers lock aquired by cart 0
+INFO:root:Producers released aquired by cart 0
+INFO:root:List lock acquired on producer 0
+INFO:root:List lock released on producer 0
+INFO:root:Product Tea(name='Ceai', price=15, type='d-ala bun') failed to add to cart 0
